@@ -1,26 +1,14 @@
-# Shopping-Cart--Array-List
+_# Shopping-Cart--Array-List
 Practice program Shopping Cart - ArrayList
 
-The festive season is about to begin. Mary is planning to purchase several items through an online shopping platform. She has added
+The festival season is about to begin. Mary is planning to purchase several items through an online shopping platform. She has added
 
 all the items to the shopping cart. Now she wants to verify if she has added all the items that she had planned to purchase. Help Mary
 
-to view the contents of the cart.
-
-Implement the above scenario using an ArrayList.
-
-Component Specification: Products
-
-Type(Class) Attributes Methods Responsibilities
-
-Products List<String> productList Include the getter
-
-and setter method.
+to view the contents of the cart.Implement the above scenario using an ArrayList. Component Specification: Products Type(Class) Attributes Methods Responsibilities Products List<String> productList Include the getter and setter method.
 
 Note: The class and methods should be declared as public and all the attributes should be declared as private.
-
 Requirement 1: Add product to the ArrayList.
-
 As per this requirement, the system should be able to add a product to the ArrayList.
 
 Component Name Type(Class) Methods Responsibilities
@@ -37,41 +25,19 @@ addProductToList(String
 
 product)
 
-This method is used
-
-to add a product to
-
-the ArrayList.
+This method is used to add a product to the ArrayList.
 
 Requirement 2: Sort the products in the ArrayList in alphabetical order.
 
 As per this requirement, the system should be able to sort the products in alphabetical order.
 
-Component
-
-Name
-
-Type(Class) Methods Responsibilities
-
-Sort the
-
-products in
-
-alphabetical
-
-order.
+Component  Name Type(Class) Methods Responsibilities Sort the products in alphabetical order.
 
 Products public void
 
 sortProductList()
 
-This method is used
-
-to sort the items in
-
-the ArrayList in
-
-alphabetical order.
+This method is used to sort the items in the ArrayList in alphabetical order.
 
 In the UserInterface class,
 
@@ -212,3 +178,4 @@ Enter your choice
 3
 
 Thank you for using the application
+_
